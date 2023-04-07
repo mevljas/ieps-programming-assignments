@@ -1,0 +1,3 @@
+[submodule "pa1/crawler"]
+	path = pa1/crawler
+	url = https://github.com/mevljas/gov.si-crawler-playwright.git
