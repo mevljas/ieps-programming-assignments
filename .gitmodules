@@ -1,3 +1,6 @@
 [submodule "pa1/crawler"]
 	path = pa1/crawler
 	url = https://github.com/mevljas/gov.si-crawler-playwright
+[submodule "pa2"]
+	path = pa2
+	url = https://github.com/mevljas/ieps-programming-assignment-2
