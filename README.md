@@ -1,2 +1,2 @@
-# IEPS programming assignments
+# WIER (IEPS) programming assignments
 Repository that contains IEPS assignments submissions.
